@@ -110,7 +110,7 @@
     "classnames": "^2.2.5",
     "cls-prefix": "^1.0.3",
     "highlight.js": "^9.12.0",
-    "marked": "^0.5.0",
+    "marked": "^0.7.0",
     "rmc-picker": "5.0.10"
   }
 }
